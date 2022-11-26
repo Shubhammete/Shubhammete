@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammete&theme=dark&show_icons=true alt="shubhammete" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammete&" alt="shubhammete" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhammete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
