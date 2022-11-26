@@ -38,7 +38,6 @@
 
 <p![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhammete&theme=dark&show_icons=true)p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammete&theme=dark&show_icons=true alt="shubhammete" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhammete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
