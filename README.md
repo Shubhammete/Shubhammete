@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubh_mete" target="blank"><img src="https://img.shields.io/twitter/follow/shubh_mete?logo=twitter&style=for-the-badge" alt="shubh_mete" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development and DSA**
 
 - 🌱 I’m currently learning **Python, Machine learning and Data Science**
 
