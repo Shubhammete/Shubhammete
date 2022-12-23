@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **Web Development and DSA**
 
+-  🏫 Pursuing B.E. in Artificial Intelligence and Data Science at Dr. D.Y. Patil Institute of Engineering Management and Research, Pune
+
 - 🌱 I’m currently learning **Python, Machine learning and Data Science**
 
 - 📫 How to reach me **Shubhammete9009@gmail.com**
