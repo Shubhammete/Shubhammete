@@ -40,7 +40,6 @@
 
 [![@shubhammete's Holopin board](https://holopin.me/shubhammete)](https://holopin.io/@shubhammete)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhammete&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhammete&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammete&show_icons=true&locale=en" alt="shubhammete" /></p>
