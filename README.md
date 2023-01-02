@@ -40,8 +40,16 @@
 
 [![@shubhammete's Holopin board](https://holopin.me/shubhammete)](https://holopin.io/@shubhammete)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhammete&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammete&show_icons=true&locale=en" alt="shubhammete" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammete&" alt="shubhammete" /></p>
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhammete&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubhammete&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubhammete&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhammete&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubhammetewho&theme=github_dark" />
+</div>
+<!--
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhammeteo&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhammete&hide=issues&count_private=true&show_icons=true&theme=calm" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=072arushi&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
+</div>
