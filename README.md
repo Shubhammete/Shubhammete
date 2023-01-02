@@ -47,7 +47,6 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubhammete&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubhammete&theme=github_dark" />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammete&show_icons=true&locale=en" alt="shubhammete&theme=github_dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhammete&show_icons=true&locale=en&theme=github_dark" alt="shubhammete" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammete&" alt="shubhammete&theme=github_dark" /></p>
-0 comments o
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammete&theme=github_dark" alt="shubhammete" /></p>
