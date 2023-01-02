@@ -48,4 +48,4 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubhammete&theme=github_dark" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammete#gh-light-mode-only" alt="shubhammete" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhammete&theme=dark" alt="shubhammete" /></p>
