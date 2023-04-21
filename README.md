@@ -16,7 +16,7 @@
 - 📫 How to reach me **Shubhammete9009@gmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<p align="left">Read my Blogs on <a href="https://codenode.hashnode.dev/">Hashnode</a></p>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me :</h3>
