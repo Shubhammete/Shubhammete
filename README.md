@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shubh_mete" target="blank"><img src="https://img.shields.io/twitter/follow/shubh_mete?logo=twitter&style=for-the-badge" alt="shubh_mete" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development and DSA**
+- 🔭 I’m currently working on **Development and DSA Projects**
 
--  🏫 Pursuing B.E. in Artificial Intelligence and Data Science at Dr. D.Y. Patil Institute of Engineering Management and Research, Pune
+-  🏫 Pursuing B.E. in Artificial Intelligence and Data Science with Honors in Cybersecurity at Dr. D.Y. Patil Institute of Engineering Management and Research, Pune
 
-- 🌱 I’m currently learning **Python, Machine learning and Data Science**
+- 🌱 I’m currently **exploring various domain so currently I am domain Independent**
 
 - 📫 How to reach me **Shubhammete9009@gmail.com**
 
