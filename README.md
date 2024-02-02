@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Mete</h1>
-<h3 align="center">I am a tech enthusiast from India. Exploring the various domains in Tech</h3>
+<h3 align="center">I am a tech enthusiast from India. Learning and documenting random stuff in Tech</h3>
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhammete&label=Profile%20views&color=0e75b6&style=flat" alt="shubhammete" /> </p>
